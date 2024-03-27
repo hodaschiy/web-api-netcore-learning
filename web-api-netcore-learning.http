@@ -1,0 +1,6 @@
+@web_api_netcore_learning_HostAddress = http://localhost:5044
+
+GET {{web_api_netcore_learning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
